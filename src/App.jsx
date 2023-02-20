@@ -9,9 +9,9 @@ function App() {
   const name1 = ['Fred & Sky', 'Rex', 'Lily'];
 
   const image1 = [
-    <img src="./src/components/images/mouse.jpg" />,
-    <img src="./src/components/images/dog.jpg" />,
-    <img src="./src/components/images/cat.jpg" />,
+    <img src="./public/images/mouse.jpg" />,
+    <img src="./public/images/dog.jpg" />,
+    <img src="./public/images/cat.jpg" />,
   ];
 
   const text =
